@@ -2,19 +2,19 @@
 separated by a space and swap the first two characters of each string.
 '''
      
-a="ABCD"
-b="EFGH"
+m="WXYZ"
+n="ABCD"
 
 print("Before swaping".center(40,"*"))
-print("A : ",a)
-print("B : ",b)
+print("A : ",m)
+print("B : ",n)
 
-s=a[:2]
-a=a.replace(a[:2],b[:2])
-b=b.replace(b[:2],s[:2])
+y=m[:2]
+m=m.replace(m[:2],n[:2])
+n=n.replace(n[:2],y[:2])
 
 print("Afetr swaping".center(40,"*"))
 
-print("A : ",a)
-print("B : ",b)
+print("A : ",m)
+print("B : ",n)
 

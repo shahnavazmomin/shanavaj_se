@@ -1,7 +1,4 @@
-'''• Write a Python function that takes a list of words and returns the length 
-of the longest one.'''
-
-
+#((Q-18)Write a Python function that takes a list of words and returns the length of the longest one...)
 
 def Max_word(l):
         m=l[0]

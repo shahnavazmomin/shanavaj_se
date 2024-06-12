@@ -1,6 +1,4 @@
-'''• Write a Python program to count the number of characters (character 
-frequency) in a string
-'''
+#((Q-13)Write a Python Programme count The Number Of Character In String.....)
 
 a=input("Enter your string : ")
 b=input("Enter your find character : ")
